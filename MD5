@@ -1,7 +1,9 @@
-774dc27f3dca2c2bd3334d9e49d248aa *DESCRIPTION
+660ecfcbe681e485b0201e781787ea8f *DESCRIPTION
+3427efaf718350bc2259d95c1deee97e *LICENSE
 d41d8cd98f00b204e9800998ecf8427e *NAMESPACE
 ab38c659f834e05381f0e78dff7bb4c6 *NEWS
 061ddef0b37ba6dcd945c9a3bef1ad70 *R/onload.R
 4ad7f3389fa12100273ca0d9211a0e8c *inst/doc/dse1.Stex
-600e246d71c8e45684c49577e1baf5b8 *inst/doc/dse1.pdf
+89cae6a7dfdfb2114763c8880153df31 *inst/doc/dse1.pdf
 71219df0516c932aacfddca8b45cd50f *man/dse1.Rd
+4ad7f3389fa12100273ca0d9211a0e8c *vignettes/dse1.Stex
